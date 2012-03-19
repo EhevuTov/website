@@ -1,0 +1,52 @@
+@font-face
+{
+font-family: Elsa;
+src: url('elsa.otf');
+}
+
+body {
+  background-color: #666;
+  font-family: Elsa, Verdana, Arial;
+  color: #555;
+}
+
+div#name{
+  margin:0 auto;
+  position: relative;
+  width: 70%;
+  color: #888;
+  font-size: 3em;
+  text-shadow: 0px -1px 0px #333,
+               0px  1px 3px #666;
+}
+
+div#out {
+  margin:0 auto;
+  position: relative;
+  width: 70%;
+  padding: 1%;
+  background-color: #F0F0F0;
+  -webkit-box-shadow: 0 0 1em black;
+     -moz-box-shadow: 0 0 1em black;
+          box-shadow: 0 0 1em black;
+  -webkit-border-radius:10px;
+     -moz-border-radius:10px;
+       -o-border-radius:10px;
+          border-radius:10px;
+}
+
+a {
+  color: #2F96D6;
+  text-decoration:none;
+       -webkit-transition:color 1s;  
+          -moz-transition:color 1s;  
+            -o-transition:color 1s;  
+}
+
+a:hover {
+  color: #2F69D6;
+}
+
+a:active {
+  color: #2F48D6;
+}
