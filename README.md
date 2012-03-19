@@ -1,6 +1,6 @@
 # My Personal Website
   - HTML5
   - CSS3
-  - Dojo Javascript toolkit for email address rendering
+  - Dojo Javascript Toolkit for email address rendering
 
 http://aliyah.homeunix.org/~james
