@@ -36,11 +36,12 @@ div#out {
 }
 
 a {
-  color: #2F96D6;
+  color: #2F8FD6;
   text-decoration:none;
-       -webkit-transition:color 1s;  
-          -moz-transition:color 1s;  
-            -o-transition:color 1s;  
+       -webkit-transition:color 1.5s;  
+          -moz-transition:color 1.5s;  
+            -o-transition:color 1.5s;  
+               transition:color 1.5s;
 }
 
 a:hover {
