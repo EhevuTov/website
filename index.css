@@ -36,18 +36,18 @@ div#out {
 }
 
 a {
-  color: #2F8FD6;
+  color: #0092BF;
   text-decoration:none;
-       -webkit-transition:color 1.5s;  
-          -moz-transition:color 1.5s;  
-            -o-transition:color 1.5s;  
-               transition:color 1.5s;
+       -webkit-transition:color .25s;  
+          -moz-transition:color .25s;  
+            -o-transition:color .25s;  
+               transition:color .25s;
 }
 
 a:hover {
-  color: #2F69D6;
+  color: #555;
 }
 
 a:active {
-  color: #2F48D6;
+  color: #004A61;
 }
