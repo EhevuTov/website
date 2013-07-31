@@ -12,6 +12,7 @@ div#out {
   background-color: #F0F0F0;
   -webkit-box-shadow: 0 0 1em #888;
      -moz-box-shadow: 0 0 1em #888;
+       -o-box-shadow: 0 0 1em #888;
           box-shadow: 0 0 1em #888;
   -webkit-border-radius:10px;
      -moz-border-radius:10px;
